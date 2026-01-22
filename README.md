@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dartao
 - 👀 I’m interested in Parallel Computing, Python Spider, Computer Vision...
-- 🌱 I’m currently learning Java/Python/Cuda
+- 🌱 I’m currently learning Java/Python/LLM
 - 📫 How to reach me : https://blog.csdn.net/dartao
 
 <!---
